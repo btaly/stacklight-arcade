@@ -2,7 +2,7 @@
 
 A small, original falling-block arcade game. Open `index.html` through a local web server, or deploy it to GitHub Pages. No dependencies or build step are required.
 
-Move with the arrow keys, rotate with Z and X (or up), soft drop with down, and pause with P or Escape. Touch controls are below the board. Clear lines to score; the level increases every ten lines. Scores and sound preference stay on the device.
+Move with the arrow keys, rotate with Z and X (or up), soft drop with down, and pause with P or Escape. Touch controls are below the board: drag the joystick left, right, or down and release to stop. Use the controls setting to switch between joystick and buttons. Clear lines to score; the level increases every ten lines. Scores and preferences stay on the device.
 
 ## Deploy and install
 
